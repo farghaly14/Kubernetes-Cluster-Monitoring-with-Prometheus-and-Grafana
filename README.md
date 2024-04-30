@@ -81,5 +81,5 @@ Access Prometheus and Grafana using the NodePort IP:
 - `minikube ip`:9090 # Prometheus
 - `minikube ip`:3000 # Grafana
 
-##Conclusion
+## Conclusion
 Congratulations! You have successfully set up Prometheus and Grafana for monitoring your Kubernetes cluster. With Grafana deployed, you can now configure dashboards to visualize various cluster metrics and gain insights into the health and performance of your Kubernetes environment.
